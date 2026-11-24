@@ -2,6 +2,10 @@
 
 An interactive data analytics dashboard built using Python and Streamlit to explore customer shopping behavior, purchasing patterns, sales trends, and customer insights.
 
+## 📸 Dashboard Preview
+
+![Customer Shopping Behavior Dashboard](screenshots/dashboard_home.png)
+
 ## 📊 Project Overview
 
 This project analyzes customer shopping data to understand purchasing habits, customer preferences, product performance, and shopping trends through interactive visualizations.
